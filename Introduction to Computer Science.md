@@ -1,5 +1,6 @@
 #HarvardUniversityCS50''
-－[第0節課]
+[第0節課]
+
 
 
 
