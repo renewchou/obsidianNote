@@ -1,5 +1,5 @@
 >[!tip] HarvardUniversityCS50's
 
-## *第0節課* 
+## *1. Week 0 - Scratch* 
 - 
 
