@@ -1,4 +1,6 @@
 {
   "showLineNumber": true,
-  "livePreview": true
+  "livePreview": true,
+  "newFileLocation": "current",
+  "useMarkdownLinks": true
 }
