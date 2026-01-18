@@ -3,4 +3,4 @@
 ## *1. Week 0 - Scratch* 
 - 
 
-![](IMG_2284.jpg)
+	![](IMG_2284.jpg)
