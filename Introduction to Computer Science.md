@@ -1,5 +1,4 @@
-## HarvardUniversityCS50's
-: : : 第0節課 : : :
->
+HarvardUniversityCS50's
+*第0節課* 
 - 
 
