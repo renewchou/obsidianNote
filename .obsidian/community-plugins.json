@@ -3,5 +3,7 @@
   "obsidian-to-anki-plugin",
   "obsidian-custom-file-extensions-plugin",
   "dataview",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-advanced-uri",
+  "url-formatter"
 ]

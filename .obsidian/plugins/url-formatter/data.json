@@ -1,0 +1,10 @@
+{
+  "urlPatterns": [
+    {
+      "name": "Tickets per company",
+      "pattern": "https:\\/\\/([A-Za-z0-9-]+)\\.example\\.com\\/([A-Z0-9-]+)",
+      "formatString": "$2 ($1)",
+      "patternEnabled": true
+    }
+  ]
+}
