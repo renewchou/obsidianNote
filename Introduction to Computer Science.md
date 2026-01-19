@@ -9,3 +9,4 @@
 	  百位數1=2^2
 	  綜上所述，可以有7種可能，分別是
 	  
+![](assets/Introduction%20to%20Computer%20Science/file-20260119222155890.png)![](assets/Introduction%20to%20Computer%20Science/file-20260119222236677.png)
